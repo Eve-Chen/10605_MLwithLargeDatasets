@@ -1,0 +1,1 @@
+('label_word_dict', {'Work': 1, 'Biomolecule': 1, 'Organisation': 1, 'CelestialBody': 1, 'Agent': 3, 'Species': 2, 'Person': 7, 'ChemicalSubstance': 2, 'Place': 2, 'Location': 1, 'SportsSeason': 1, 'Device': 1, 'MeanOfTransportation': 3, 'other': 1, 'Event': 2})

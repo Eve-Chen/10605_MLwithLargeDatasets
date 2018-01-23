@@ -1,0 +1,1 @@
+('label_docs', {'Work': 274, 'Biomolecule': 17, 'Organisation': 138, 'CelestialBody': 23, 'Agent': 135, 'Species': 226, 'Person': 849, 'ChemicalSubstance': 6, 'Place': 540, 'Location': 11, 'SportsSeason': 16, 'Device': 1, 'MeanOfTransportation': 30, 'other': 289, 'Event': 34})

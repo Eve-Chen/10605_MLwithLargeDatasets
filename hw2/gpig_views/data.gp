@@ -1,0 +1,5 @@
+['hello', 'world!']
+['This123', 'is', 'only', 'a', 'test,', 'no', 'worries!']
+["I'm", 'so', 'excited.']
+['hello...', 'world!']
+['You', 'are', 'so', 'nice.']

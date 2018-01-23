@@ -1,0 +1,1 @@
+('*', [('Agent,*', 16609), ('Biomolecule,*', 1733), ('CelestialBody,*', 1656), ('ChemicalSubstance,*', 453), ('Device,*', 262), ('Event,*', 3083), ('Location,*', 824), ('MeanOfTransportation,*', 3142), ('Organisation,*', 12478), ('Person,*', 77993), ('Place,*', 35742), ('Species,*', 11943), ('SportsSeason,*', 1090), ('Work,*', 24024), ('other,*', 34615)])
