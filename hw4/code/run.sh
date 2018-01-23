@@ -1,0 +1,1 @@
+python2 mlp.py --max_len 20 --num_hid 50 --batch_size 64 --dataset smaller --epochs 15 --output_file output --train_loss_file train_loss
